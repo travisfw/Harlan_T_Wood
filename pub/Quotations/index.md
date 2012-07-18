@@ -1,5 +1,5 @@
 ---
-title: Quotes
+title: Quotations
 layout: page
 ---
 > "I am not a thing — a noun. I seem to be a verb, an evolutionary process — an integral function of the universe."
@@ -21,10 +21,11 @@ layout: page
 > -- [Ward Cunningnam]
 
 > "The future is open source everything." 
->  -- Linus Torvalds
+>  -- [Linus Torvalds]
 
 
 
 [Ward Cunningnam]: http://c2.com/cgi/wiki?WardCunningham
 [Jason Silva]: http://thisisjasonsilva.com/
 [Stewart Brand]: http://web.me.com/stewartbrand/
+[Linus Torvalds]: https://plus.google.com/102150693225130002912
