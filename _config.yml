@@ -52,10 +52,10 @@ titlecase: false       # Converts page and post titles to titlecase
 # ----------------------- #
 
 # Github repositories
-github_user: harlantwood
-github_repo_count: 4
-github_show_profile_link: true
-github_skip_forks: true
+#github_user: harlantwood
+#github_repo_count: 4
+#github_show_profile_link: true
+#github_skip_forks: true
 
 # If the repo behind this site is stored on Github, you can specify
 # your github repo name to allow people to fork your site:
