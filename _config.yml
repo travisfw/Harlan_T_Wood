@@ -94,4 +94,4 @@ pinboard_count: 3
 google_analytics_tracking_id: UA-17399272-1
 
 # Facebook Like
-facebook_like: true
+facebook_like: false
