@@ -1,0 +1,540 @@
+<?xml version="1.0" ?> 
+<?xml-stylesheet type="text/xsl" href="ResumeHtml.xsl"?>
+
+<resume>
+
+  <contact name="Harlan T Wood" email="yes@harlantwood.net" location="San Francisco, CA" />
+
+  <section name="Agile Software Development / Team &amp; Project Leadership">
+
+    <text>
+      Drawing from my own entrepreneurial experience, 
+      I am strongly focused on customer collaboration and delivery of concrete business value. 
+
+      I have great respect for the lean/agile toolkit, and I have driven the adoption of 
+      automated testing, 
+      continuous integration, 
+      code quality visualizations, 
+      executable plain text specifications,
+      and formal process improvement.  
+
+      I balance my technical interests with creative pursuits.
+
+      I am an inspired human, and I bring this inspiration to my work and my life.
+    </text>                                                                       
+
+    <subsection name="Key Offerings">
+      <points>
+        <point>Project management emphasizing simplicity and transparency</point>
+        <point>Hub of collaboration and visibility between developers and executives</point>
+        <point>Agile development &#38; coaching: test driven development, pair programming, etc</point>
+        <point>Continuous code integration, outputting metrics and visualizations</point>
+        <point>Lightweight just-in-time planning and scoping</point>
+        <point>Specializing in Ruby on Rails</point>
+      </points>
+    </subsection> 
+
+    <testimonial>
+      <testimonialText>                                
+        <general><strong>
+          "Harlan is one of those too-rare people who can see what needs to be done, how to cut the problem down into bite-sized pieces, and then knock the code out of the ballpark. Both a pragmatic programmer and an agile project manager, I'd work with him again on any project that needs a guy who makes things happen!"
+        </strong></general>
+      </testimonialText>
+      <clientName>Christina Wodtke</clientName>
+      <clientTitle>Principal Product Manager</clientTitle>
+      <company>LinkedIn</company>                
+      <testimonialUnedited></testimonialUnedited>
+    </testimonial>
+    
+    <testimonial>
+      <testimonialText>                                
+        <general><strong>
+          "Harlan is an expert agile leader and software craftsman. He is gifted at perceiving business value, establishing processes to actualize it, and leading cross-team conversations to support it. He has an impeccable personal integrity that generates good will, good results, and good luck. I value any opportunity to work with Harlan and I recommend him highly."
+        </strong></general>
+      </testimonialText>
+      <clientName>Noah Thorp</clientName>
+      <clientTitle>CTO</clientTitle>
+      <company>Sessionex</company>                
+      <link href="#Recommendations">[more recommendations]</link>
+      <testimonialUnedited>
+      </testimonialUnedited>
+    </testimonial>
+    
+    <!-- ” August 24, 2008
+
+    , Partner/Consultant, 
+    managed Harlan at Internaut Design     -->
+
+  </section> 
+
+  <section name="My Ideal Next Job">
+    <points>
+      <!-- <point>An environment supportive of rigorous testing, regular refactoring, and serious software craftsmanship</point>
+      <point>A place where creativity and originality are welcomed and valued</point> -->
+      <point>Making a positive impact on the world through technology</point>
+      <point>Management and executives enable, empower, and open doors</point>
+      <point>A friendly, collaborative, mutually supportive environment, with interesting and intellectually stimulating coworkers</point>
+      <!-- <point>Regular automated builds, with failing builds fixed quickly</point>
+      <point>We know our test coverage percentage, and other code quality metrics</point>
+      <point>Programming in modern high-level OO languages like Ruby and Python, or at least C# and Java</point>
+      <point>Bonus points for rspec, behavior driven development</point>
+      <point>Serious bonus points for automated acceptance tests that are created or maintained by product managers, executives, or clients</point> -->
+      <!-- 
+        startup
+        low mgmt hierarchy levels
+        agile support all the way up 
+        open source contributing
+      -->
+    </points>
+  </section> 
+
+  <section name="Experience">
+    <job>
+      <title>Director of Engineering</title>
+      <company>zozi</company>
+      <location>San Francisco, CA</location>
+      <startDate>August 2011</startDate> 
+      <endDate>February 2012</endDate>
+    </job>
+    <job>
+      <title>Senior Developer</title>
+      <company>zozi</company>
+      <location>San Francisco, CA</location>
+      <startDate>February 2010</startDate> 
+      <endDate>August 2011</endDate>
+    </job>
+    <job>
+      <title>Agile Software Developer</title>
+      <company>Planet Metrics</company>
+      <location>San Bruno, CA</location>
+      <startDate>October 2008</startDate> 
+      <endDate>February 2010</endDate>
+      <points>
+        <point>Developing in <em>Ruby on Rails</em>, using RSpec, Cucumber, RubyMine, Capistrano, cruisecontrol.rb, Scriptaculous, JQuery</point>
+        <point>Extensive use of <em>Test Driven Development</em>, pair programming, and generally the XP/Lean/Agile toolkit</point>
+        <point>Owning and running retrospective / Kaizen meetings</point>
+      </points>
+    </job>
+    <job>
+      <title>Project Manager &amp; Senior Software Engineer</title>
+      <company>Internaut Design (Contractor)</company>
+      <location>San Francisco, CA</location>
+      <startDate>February 2008</startDate> 
+      <endDate>September 2008</endDate>
+      <points>
+        <point><em>Project managing</em>: running retrospectives &amp; planning meetings, managing scope and deadlines with visual feedback for the whole team</point>
+        <point>Developing significant new functionality for <em>LinkedIn</em> core website</point>
+        <point>Developing in <em>Ruby on Rails</em>, using Capistrano, vlad, rspec, shoulda, cruisecontrol.rb, etc</point>
+        <point>Continually bringing our focus back to business value, internally and for clients</point>
+      </points>
+    </job>
+    <job>
+      <title>Senior Developer</title>
+      <company>Wireless Generation</company>
+      <location>Brooklyn NY</location>
+      <startDate>August 2006</startDate> 
+      <endDate>February 2008</endDate>
+      <points>  
+        <point>Initiated and implemented department-wide unit testing frameworks: <em>JUnit and CxxTest</em>, hooked into <em>CruiseControl</em></point>
+        <point><added date="2007-08">Provided technical leadership in areas of build, testing, and metrics</added></point>
+        <point><added date="2007-08"><em>Managed</em> junior developers, achieving win-win solutions from sometimes challenging situations</added></point>
+        <point><added date="2007-08">Integrated web application functional tests into CruiseControl (using <em>Selenium</em>), in an extensible manner: any number of test suites, from any variety of branches can be run on any target server</added></point>
+        <point>Worked with agile contractors on GWT project using <em>Test Driven Development</em></point>
+        <point>Attended Agile 2007 and presented key learnings to our team</point>
+        <point><added date="2007-08">Created, estimated, categorized and prioritized internal development framework improvements, created in a lightweight, flexible task-tracking system</added></point>
+        <point><added date="2007-08">Largely self-managed, with appropriate support</added></point>
+        <point><added date="2007-08">Strong commitment to both external and self-imposed deadlines</added></point>
+        <point><added date="2007-08">Attended a conference on <em>Continuous Integration</em> (Citcon Dallas), returning with tools for powerful <em>visualizations of quality metrics</em> in a given code base</added></point>
+        <point><added date="2007-08">Implemented unit tests utilizing <em>Behavior Driven Development</em></added></point>
+        <point><em>Load testing</em> using The Grinder, a Python-based load test recording/scripting tool</point>
+      </points>
+    </job>
+    <job>
+      <title>Senior Software Engineer</title>
+      <company>Evolutia</company>
+      <location>Sydney Australia</location>
+      <startDate>March 2005</startDate> 
+      <endDate>June 2006</endDate>
+      <points>
+        <point>Designed and developed web and desktop applications in <em>C#</em></point>
+        <point>Database design and maintenance using <em>SQL Server</em>, Enterprise Manager, Profiler, Query Analyzer</point>
+        <point>Maintained professional contact with Evolutia's major clients</point>
+        <point>Initiated, designed, and coded a custom error handling and reporting framework</point>
+        <point>Initiated and developed <em>XSL</em>-based email administration system</point>
+        <point>Coded, tested, and deployed the delicate selective import of tens of thousands of multi-frame prescription images into the live production database</point>
+        <point>Coded, tested, and deployed a system to eliminate duplicate orders from live e-commerce database</point>
+      </points>
+    </job>
+    <job>
+      <title>Principal</title>
+      <company>Golden Sun Solutions</company>
+      <location>Sydney, Australia</location>
+      <startDate>1999</startDate> 
+      <endDate>2005</endDate>
+      <points>
+        <!--point>Selected and contracted to designers and programmers</point--> 
+        <point>Marketed to and managed projects for a range of clients, including <em>financial services, government agencies</em>, training organizations, and retail ecommerce operations</point> 
+        <point><em>C#</em> back end coding of Camera Store Metasite</point>
+        <point>Created powerful generic "printer friendly page" generator, using <em>C#/ASP.NET</em> regular expressions to strip out printer-unfriendly HTML tags and attributes; created accompanying suite of <em>unit tests</em> and test data</point>
+        <point>Designed and coded <em>C# desktop application</em> to custom-mix audio files utilizing flexible XML-based configuration instructions</point>
+        <point>Coded custom raytracer from scratch using <em>C#</em>, including transparency, refraction index, specular highlights, and support for generic triangle mesh rendering <taskExample url="http://www.thegoldensun.com/art/raytraced/images/sphere%20stack%204%20top.jpg" linkText="Image" width="520" height="525" /></point>
+        <point><em>Unix</em> command line operation of various remote websites</point>
+        <point>Created custom e-commerce solutions, allowing clients to add and remove custom data fields through HTML template editing</point>
+        <point>Created custom wrappers around existing C++ PDF generation libraries, for web-based generation of large PDF documents</point>
+        <point>Developed custom "email blasting" application, including extensive bounce processing facilities, written in Python, and utilizing <em>Test-Driven Development</em> techniques
+      </point>
+      <point>Dynamically generated of Flash vector images based on user input, utilizing Python CGI and existing SWF generation library <taskExample url="http://www.thegoldensun.com/ming/tobi.swf" linkText="image" width="770" height="530" />
+    </point>
+    <point>Extended open source Perl shopping cart with Python business logic layer for custom e-commerce solution</point>
+    <point>Coded searchable world atlas, utilizing <em>Python and MySQL</em></point>
+    <point>Developed <em>ASP</em> application to "screen scrape" relevant data from stock market feed using regular expressions; output of intermediate XML format, followed by <em>XSLT</em> conversion to XHTML and plain text versions, for final multi-format email to clients</point>
+    <point>Designed and coded basic <em>3D Game Engine</em> in C++/OpenGL, using <em>unit tests</em>, STL, C++ best practices; implemented first person camera, motion control, BSP trees, and collision detection/response</point>
+    <point>Database-driven <em>ASP/Access/VBA</em> solution for tile shop, showcasing extensive image catalog, including industry-leading cross-browser JavaScript online tile visualization application <!--taskExample url="http://www.academytiles.com.au/asp/multiple_tiles.asp?cat=Glass%20Mosaic&amp;series=Le%20Gemme" linkText="view site" width="770" height="480" /-->          
+  </point>
+  <point>Designed and coded Flash/PHP/MySQL ski resort booking system, using <em>Test Driven Development</em></point>
+  <point>Created customized e-commerce solutions for products and course sales, using commercial ASP shopping cart</point>
+  <point>Implemented extensive customizations to <em>ASP/HTML/JavaScript</em> forum software</point>
+  <point>Designed and coded Java desktop app to generate on the fly tutorials from XML instruction sets</point>
+</points>
+</job>
+<!-- <job>
+  <title>Graphic Designer</title>
+  <company>Clairvision</company>
+  <location>Sydney, Australia</location>
+  <startDate>1998</startDate> 
+  <endDate>1999</endDate>
+  <points>
+    <point>Designed and created internationally published book cover, using 2D and 3D software tools</point>
+    <point>Photographed and digitally edited educational slide shows</point>
+    <point>Designed and created packaging for educational CD-ROMs</point>
+  </points>
+</job> -->
+<!-- <job>
+<title>Various Past Lives</title>
+<points>
+  <point>Personal Development Instructor</point>
+  <point>Runaway Teen Counselor</point>
+  <point>Actor</point>
+  <point>Photographer</point>
+</points>
+</job> -->
+</section>          
+
+<section name="Strengths">
+  <points>
+    <point>Flexibility</point>
+    <point>Enthusiasm</point>
+    <point>Lateral thinking</point>
+    <point>High degree of motivation</point>
+    <point>Organized, focussed, strive for zero backlog</point>
+    <point>Desire to make luminous software experiences</point>
+    <point>Not fixed on my own ideas; always open to change when a superior solution is available</point>
+    <point>I think carefully about interface design, not just from the developer's point of view, but from the user's</point>
+    <point casual="1">A balanced human with a social life, a love of art and theater, yoga, and meditation, as well as cutting edge technology</point>
+    <point>Inspired about software best practices, like eliminating code duplication; building simple, rapid prototypes; rigorous automated testing</point>
+    <point>I try to be as awake as possible in all areas of my life. At work this means: taking ownership where appropriate; questioning assumptions; lateral thinking; openness to unexpected directions</point>
+  </points>
+</section> 
+
+<technologies name="Languages &#38; Technologies"> 
+  <level name="Fluent"> 
+    <technology>Ruby</technology> 
+    <technology>Rails</technology> 
+    <technology>RSpec</technology> 
+    <technology>regular expressions</technology> 
+    <technology>bash</technology> 
+    <technology>Git</technology> 
+    <technology>Unix</technology> 
+    <technology>OSX</technology> 
+    <technology>Jenkins</technology> 
+  </level> 
+  <level name="Conversant"> 
+    <technology>coffeescript</technology> 
+    <technology>sinatra</technology> 
+    <technology>d3</technology> 
+    <technology>Python</technology>
+    <technology>CSS</technology> 
+    <technology>SQL</technology> 
+    <technology>JavaScript</technology> 
+    <technology>CruiseControl</technology> 
+  </level> 
+  <level name="Functional"> 
+    <technology>node.js</technology> 
+    <technology>Photoshop &#38; Gimp</technology> 
+    <technology>XSLT</technology> 
+    <technology>Grinder</technology> 
+    <technology>JMeter</technology> 
+    <technology>Java</technology> 
+    <technology>C#</technology> 
+    <technology>C++</technology> 
+    <technology>PHP</technology> 
+    <technology>ActionScript</technology> 
+  </level> 
+</technologies> 
+
+<section name="Education &#38; Conferences">
+  <points>
+    <point>
+      <trainingType>Startup Weekend</trainingType>  
+      <trainingDetails>Self Organizing, San Francisco, CA, 2009 &amp; 2010</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Presenting Data &amp; Information</trainingType>  
+      <trainingDetails>Edward Tufte, San Francisco, CA, 2009</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Implementing Lean Software Development: Practitioner's course</trainingType>  
+      <trainingDetails>Mary &#38; Tom Poppendieck, New York NY, 2008</trainingDetails>
+    </point>
+    <point>
+      <trainingType>ScrumMaster Certification Course</trainingType>  
+      <trainingDetails>3Back, Cupertino CA, 2008</trainingDetails>
+    </point>
+    <point>
+      <trainingType>RailsConf</trainingType>  
+      <trainingDetails>Portland OR, 2008</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Edward Tufte: Presenting Data and Information</trainingType>  
+      <trainingDetails>San Francisco, 2008</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Google I/O</trainingType>  
+      <trainingDetails>San Francisco CA, 2008</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Agile 2007 Conference</trainingType>  
+      <trainingDetails>Washington DC, 2007</trainingDetails>
+    </point>
+    <point>
+      <trainingType>CitCon - Continuous Integration and Testing Conference</trainingType>  
+      <trainingDetails>Dallas TX, 2007</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Singularity Summit</trainingType>  
+      <trainingDetails>San Francisco CA, 2007</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Bachelor of Science, Computer Science (First Class Honors)</trainingType>
+      <trainingDetails>University of Technology, Sydney Australia, 2006</trainingDetails> 
+      <points>
+        <point>Computer graphics submajor: 3D game engine in C++/OpenGL, raytracer in C# (1.0 beta)</point>
+        <point>Extreme Programming course, including hands-on industry experience</point>
+        <point>Cisco Networking Certification</point>
+      </points>
+    </point>
+    <point>
+      <trainingType>3D Studio Max</trainingType>  
+      <trainingDetails>(200 hours), Computer Graphics College, Sydney, 2000</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Softimage</trainingType> 
+      <trainingDetails>(80 hours) Australian Film &amp; Television School, 1999</trainingDetails>
+    </point>
+    <point>
+      <trainingType>Photography</trainingType>
+      <trainingDetails>McDowell College, North Carolina, 1995 - 1996</trainingDetails>
+    </point>
+  </points>
+</section> 
+
+<section name="Interests">
+  <points>
+    <point>Collaborative creativity systems</point>
+    <point>Systems for sharing trust ratings -- of corporations, politicians, etc</point>
+    <point>Visual programming languages</point>
+    <point>Intelligence amplification, transhumanism, technological singularity</point>
+    <point>4D Tetris</point>
+  </points>
+</section> 
+
+<section name="Recommendations">
+
+  <testimonial>
+    <testimonialText>                                
+      <general>
+        Harlan is a very competent project manager. He is detail oriented and doesn't let anything fall through the cracks. He is proactive in getting his people together to have those tough conversations. Harlan is very much an advocate of transparency and is able to report the appropriate level of information to the right people, so they in turn can stay on the pulse of the project. Harlan has been fantastic to work with and I would be honored to work with him on a project again.
+      </general>
+    </testimonialText>
+    <clientName>Rodney Carvalho</clientName>
+    <clientTitle>Co-Founder</clientTitle>
+    <company>Internaut Design</company>                
+    <testimonialUnedited></testimonialUnedited>
+  </testimonial>
+  
+  <testimonial>
+    <testimonialText>                                
+      <general>
+        Harlan's positive and friendly attitude combined with his experience with agile development practices make him a great team member on critical, time-sensitive projects. As a developer, his decision making process always focuses first on delivering business value, and keeping the team on track to 
+      </general>
+      <attention>deliver quality, tested software</attention>.
+      <general>
+        He introduced many agile practices at Wireless Generation, leading the creation of the infrastructure and test cases for automated web acceptance tests. Aware of the challenges faced in 
+      </general>
+      <attention>introducing change</attention>, 
+      <general>
+        Harlan created 
+      </general>
+      <attention>highly visible project metrics</attention> 
+      <general>
+        to keep product owners constantly informed of story progress and code quality. His friendly personality and creative energy always made pairing sessions fun, and I'd welcome the chance to work with him again.
+      </general>
+    </testimonialText>
+    <clientName>Daniel Wellman</clientName>
+    <clientTitle>Senior Software Engineer</clientTitle>
+    <company>Cyrus Innovation</company>                
+    <!-- another edit, emphasis on sr.dev. qualities:  <text><strong>"Harlan's positive and friendly attitude combined with his experience with agile development practices make him a great team member on critical, time-sensitive projects. As a developer, his decision making process always focuses first on delivering business value, and keeping the team on track to deliver quality, tested software... His friendly personality and creative energy always made pairing sessions fun, and I'd welcome the chance to work with him again."</strong> - Daniel Wellman, Senior Software Engineer, Cyrus Innovation</text> -->
+    <testimonialUnedited>Harlan's positive and friendly attitude combined with his experience with agile development practices make him a great team member on critical, time-sensitive projects. As a developer, his decision making process always focuses first on delivering business value, and keeping the team on track to deliver quality, tested software. He introduced many agile practices at Wireless Generation, leading the creation of the infrastructure and test cases for automated web acceptance tests. Aware of the challenges faced in introducing change, Harlan created highly visible project metrics to keep product owners constantly informed of story progress and code quality. His friendly personality and creative energy always made pairing sessions fun, and I'd welcome the chance to work with him again.</testimonialUnedited>
+  </testimonial>
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>Harlan is a very dedicated Agile Developer. He was able to </general>
+      <attention>greatly improve our development, test and release processes</attention>
+      <general> through applying Agile methods. Working with Harlan is always a pleasure as he strives for the best methods to solve problems while remaining open to suggestions. Harlan often makes the argument for "doing the right thing", and I am very appreciative of this approach. Sometimes there can be a significant tension between QA and developers - this is not the case with Harlan, as he always </general>
+      <attention>keeps testability a top priority</attention>
+      <general> for his projects.</general>
+    </testimonialText>
+    <clientName>Christopher Hoey</clientName>
+    <clientTitle>Lead QA Engineer</clientTitle>
+    <company>Wireless Generation</company>
+    <testimonialUnedited>Harlan is a very dedicated Agile Developer. He was able to greatly improve our development, test and release processes through applying Agile methods. Working with Harlan is always a pleasure as he strives for the best methods to solve problems while remaining open to suggestions. Harlan often makes the argument for "doing the right thing", and I am very appreciative of this approach. Sometimes there can be a significant tension between QA and developers - this is not the case with Harlan, as he always keeps testability a top priority for his projects.</testimonialUnedited>
+  </testimonial> -->
+
+  <testimonial>
+    <testimonialText>
+      <general>Harlan was a progressive force in the company, promoting agile practices and </general>
+      <attention>helping us improve the way we made software</attention>
+      <general>. Harlan quickly developed an automated build process; In retrospect I don't know how we got by without an automated build. He set up code metrics, promoted unit tests, and a concern for developing high quality software. More than anything, Harlan brings a </general>
+      <attention>passion for developing software the right way</attention>
+      <general>.</general>
+    </testimonialText>
+    <clientName>Gabe Yarra</clientName>
+    <clientTitle>Senior Software Engineer</clientTitle>
+    <company>Wireless Generation</company>
+    <testimonialUnedited>I worked with Harlan for about 18 months at Wireless Generation. During that time Harlan was a progressive force in the company, promoting agile practices and helping us improve the way we made software. Harlan quickly saw the need for and developed an automated build process. In retrospect I don't know how we got by without an automated build, but at the time there was some skepticism. He set up code metric and other tools. He promoted unit tests and a concern for developing high quality software in a modern sense. And of course he producing high quality applications. More than anything, Harlan brings a passion for developing software the right way.</testimonialUnedited>
+  </testimonial>
+
+  <testimonial>
+    <testimonialText>
+      <general>Harlan's </general>
+      <attention> intelligence, professionalism, talent and genuine interest in software development </attention>
+      <general> not to mention his warmth, wit, and consideration for others - make him an excellent developer, and a pleasure to work with. His </general>
+      <attention> considered, lateral and focused approach to his work is a true asset, </attention>
+      <general> as is his ability to communicate very effectively.  We were sad to see him leave to return to the US. I have no hesitation in recommending Harlan to any organization seeking a developer, and person, of very high quality.</general>
+    </testimonialText>
+    <clientName>Rory Buck</clientName>
+    <clientTitle>Owner/Director</clientTitle>
+    <company>Evolutia Pty. Ltd.</company>
+    <testimonialUnedited>Harlan's intelligence, professionalism, talent and genuine interest in software development - not to mention his warmth, wit, and consideration for others - make him an excellent developer, and a pleasure to work with. His considered, lateral and focused approach to his work is a true asset, as is his ability to communicate very effectively. We were sad to see him leave to return to the US. I have no hesitation in recommending Harlan to any organisation seeking a developer, and person, of very high quality.</testimonialUnedited>
+  </testimonial>
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>I feel have an unspoken guarantee with Harlan that </general>
+      <attention>when I bring him an urgent problem, it will be solved, every time</attention>
+      <general>. I've come to rely on his speed and thoroughness. I've been able to call Harlan in at any stage of a project and know he will be able complete the job, cleanly and efficiently.</general>
+    </testimonialText>
+    <clientName>Patrick Donohoe</clientName>
+    <clientTitle>Director</clientTitle>
+    <company>Peartruck Design</company>
+    <testimonialUnedited>I have an unspoken guarantee with Golden Sun that when I bring them an urgent problem it will be solved, every time. I've really come to rely on their speed and reliability. I've been able to call Golden Sun in at any stage of a project and know they will be able complete the job, cleanly and efficiently.</testimonialUnedited>
+  </testimonial> -->
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>Harlan's work is second to none in the web development industry, he is </general>
+      <attention>efficient, technically adept, and also has a talent for design</attention>
+      <general>, a rare combination in my experience. I would highly recommend him to anyone seeking to create unique, functional and aesthetically pleasing web based products.</general>
+    </testimonialText>
+    <clientName>Hayden Kerr</clientName>
+    <clientTitle>CTO</clientTitle>
+    <company>Freeman Fox</company>
+    <testimonialUnedited>
+      21st November 2005
+      To whom it may concern,
+      I engaged Harlan Wood and his company Golden Sun Solutions as a contractor to develop parts of our corporate website, re-design the entire site, and also to develop online web based applications to drive different sections of our website. 
+      Harlan's work is second to none in the web development industry, he is efficient, technically adept, and also has a talent for design, a rare combination in my experience. I would highly recommend him to anyone seeking to create unique, functional and aesthetically pleasing web based products.
+      Should you need to contact me to provide any further information please use the contact details below.
+      Best Regards
+      Hayden Kerr
+      +643 8636 3403
+      hayden.kerr@tricom.com.au
+    </testimonialUnedited>
+  </testimonial> -->
+
+  <!-- <testimonial>
+    <testimonialText>
+      <attention>Harlan is a creative systems Wizard. </attention>
+      <general>His brilliant mind seamlessly integrates advanced programming techniques, human psychology, and revolutionary technologies into applicable visions and projects. For any software or creative systems development, Harlan would be (and is) my first choice for consultation, creation of a critical-path, and implementation of the project.</general>
+    </testimonialText>
+    <clientName>Adam Apollo</clientName>
+    <clientTitle>Creative Systems Architect</clientTitle>
+    <company>Access Granted, Inc</company>
+    <testimonialUnedited>Harlan is a creative systems Wizard. His brilliant mind seamlessly integrates advanced programming techniques, human psychology, and revolutionary technologies into applicable visions and projects. For any software or creative systems development, Harlan would be (and is) my first choice for consultation, creation of a critical-path, and implementation of the project.</testimonialUnedited>
+  </testimonial> -->
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>Harlan demonstrated a </general>
+      <attention>high level of motivation and genuine concern</attention>
+      <general> for the work he did at Genentech, allowing us to increase the complexity and quantity of projects assigned to him.   He often worked with our UNIX system administrator and our technical lead on projects that either automated current processes or helped our computer systems run more smoothly.</general>
+    </testimonialText>
+    <clientName>Todd Trundle</clientName>
+    <clientTitle>Supervisor</clientTitle>
+    <company>Genentech</company>
+    <testimonialUnedited> ... Harlan demonstrated a high level of motivation and genuine concern for the work he did at Genentech, allowing us to increase the complexity and quantity of projects assigned to him. He often worked with our UNIX system administrator and our technical lead on projects that either automated current processes or helped our computer systems run smoother.</testimonialUnedited>
+  </testimonial> -->
+
+  <testimonial>
+    <testimonialText>
+      <general>Harlan is </general>
+      <attention>one of the most intelligent and talented people I have taught in 24 years</attention>
+      <general> of teaching at UTS.  He studied a number of my computer graphics electives, where he was an enthusiastic and imaginative student with outstanding programming abilities. Harlan is an outstanding person who is friendly, outgoing, and articulate. You should grab him before somebody else does.</general>
+    </testimonialText>
+    <clientName>Dr. Kevin Suffern</clientName>
+    <clientTitle>Senior Lecturer</clientTitle>
+    <company>University of Technology Sydney</company>
+    <testimonialUnedited>Harlan is one of the most intelligent and talented people I have taught in 24 years of teaching at UTS.  He studied a number of my computer graphics electives, where he was an enthusiastic and imaginative student with outstanding programming abilities. But it wasn't only in computer graphics that Harlan excelled; his academic record demonstrates how he excelled across a wide range of information technology areas. He is also an experienced web developer with experience running his own company. Harlan is an outstanding person who is friendly, outgoing, and articulate. He would make an excellent employee. You should grab him before somebody else does.</testimonialUnedited>
+  </testimonial>
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>We engaged Harlan with the intention of dressing up our existing web site, and received much more than we expected. He brought with him them a love for his work, great enthusiasm, and an </general>
+      <attention>incisive and creative mind, efficiently transforming concepts to working reality</attention>
+      <general>. Post delivery, he retained a close interest in our web site, and worked with us to develop exciting additional functionality.</general>
+    </testimonialText>
+    <clientName>Joe Zeaiter</clientName>
+    <clientTitle>Director</clientTitle>
+    <company>Academy Tiles</company>
+    <testimonialUnedited>Harlan was engaged with the intention of just dressing up our existing website, but we received much more than we expected. Harlan brought with him a love for his work, great enthusiasm, and an incisive and creative mind. He efficiently transformed concepts to working reality, creating an aesthetically pleasing new website. Post delivery he retained a close interest in the website, convincing us with sheer enthusiasm to add some exciting functionality. He is a warm person with outstanding professional skills and vision.</testimonialUnedited>
+  </testimonial> -->
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>I have had the pleasure of having Harlan in my Game Design and Game Programming classes. Harlan is one of the few students who has </general>
+      <attention>outstanding technical and personal skills</attention>
+      <general>. He is an excellent programmer, and will easily master new languages and technologies . Harlan is innovative, has run his own business for a number of years, organized, and communicates his ideas clearly and effectively.</general>
+    </testimonialText>
+    <clientName>Dr. Yusuf Pisan</clientName>
+    <clientTitle>Senior Lecturer</clientTitle>
+    <company>University of Technology, Sydney</company>
+    <testimonialUnedited>I have had the pleasure of having Harlan in my Game Design and Game Programming classes. Harlan is one of the few students who has outstanding technical and personal skills. He is an excellent programmer with a good grasp of C++, Java, XML, JavaScript and will easily master new languages and technologies . Harlan is innovative, has run his own business for a number of years, organized, and communicates his ideas clearly and effectively. Harlan's skills and energy would be a great benefit the Google team.</testimonialUnedited>
+  </testimonial> -->
+
+  <!-- <testimonial>
+    <testimonialText>
+      <general>Harlan's </general>
+      <attention>quick initiative and energy</attention>
+      <general> is inspiring!</general>
+    </testimonialText>
+    <clientName>Angie Ross</clientName>
+    <clientTitle>Creative Director</clientTitle>
+    <company>Spellbound Creative</company>
+    <testimonialUnedited>GSS was a fantastic solution to our IT and Internet requirements. Harlan helped one of our major clients save money on a regular email blast which in turn boosted our relationship. Their quick initiative and energy is inspiring. Golden Sun Solutions is the perfect solution for anything IT!</testimonialUnedited>
+  </testimonial> -->
+
+
+</section> 
+
+</resume>

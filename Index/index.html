@@ -1,0 +1,19 @@
+---
+layout: page
+title:
+status: unlisted
+---
+
+<div id="page-summaries">
+  {% for page in site.pages %}
+    {% if page.layout == 'page' %}
+      {% if page.status != 'unlisted' %}
+        {% if page.title %}
+          <article>
+            <h1><a href="{{ root_url }}{{ page.url }}">{{page.title}}</a></h1>
+          </article>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
