@@ -9,7 +9,7 @@ layout: page
 
 When I came back to the US in 2006 after studying for several years with a meditation school in Australia, I found myself the happy recipient of large-scale "downloads" of systems for global transformation through development of certain technologies -- notably creative collaboration, trust and ratings exchanges, and information visualization systems.
 
-I developed these ideas with my friends [Adam Apollo][] and [Jack Senechal][] over the course of several years, in numerous working sessions and impassioned conversations.  The project that we saw as the capstone of this interlinked layer of "[Enlightened Structure][]" we called the [Trust Exchange][].  An excerpt from our writings on the topic:
+I developed these ideas with my friends [Adam Apollo][] and [Jack Senechal][] over the course of several years, in numerous working sessions and impassioned conversations.  The project that we saw as the capstone of this interlinked layer of "[enlightened structure][]" we called the [Trust Exchange][].  An excerpt from our writings on the topic:
 
 > The Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open, globally distributed database.  Instead of creating another proprietary "silo" containing your ratings and trust information, like so many existing online systems, the Trust Exchange is a simple and powerful open platform for humanity to exchange its trust information. 
 
@@ -47,5 +47,5 @@ Let's build the trust network on Connect.me together -- these people have their 
 [vouching for people]: http://connect.me/harlanknightwood
 [Tristan Kromer]: http://twitter.com/#!/TriKro
 [John Perry Barlow]: http://twitter.com/#!/JPBarlow
-[Enlightened Structure]: http://enlightenedstructure.org/
+[enlightened structure]: http://enlightenedstructure.org/
 [Trust Exchange]: http://enlightenedstructure.org/trust-exchange/
