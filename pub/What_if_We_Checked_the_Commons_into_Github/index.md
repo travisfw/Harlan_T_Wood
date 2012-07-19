@@ -1,6 +1,7 @@
 ---
 title: "What if we checked the commons into GitHub?"
 authors: Harlan T Wood
+         Travis F Wellman
 layout: page
 ---
 
@@ -40,8 +41,8 @@ While GitHub would love this, and is the most appropriate current platform that 
 
 ## The Remix Revolution
 
-Distributed version control is the key tool to enable massive knowledge sharing and collaboration. It gives individuals power over their content, a reliable way to manage it, and documents authorship in a cryptographically verifiable log to give credit where credit is due.
+Distributed version control is key to enabling massive knowledge sharing and collaboration. It gives individuals power over their content, a reliable way to manage it, and documents authorship in a cryptographically verifiable log to give credit where credit is due.
 
-This tool must be learned by non programmers.
+Distributed version control must be learned by non programmers.
 
 What if not every brush stroke in the Mona Lisa were applied by Leonardo? What if every art school student could rewind the painting to where it was half done and finish it themselves? What if this new millenium saw new works of such significance with thousands of artists involved, all working in parallel, all merged together into one cultural artifact to embody lifetimes of creativity? Let's start with our creative commons and public domain text.
