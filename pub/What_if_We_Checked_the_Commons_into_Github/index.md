@@ -38,7 +38,10 @@ While GitHub would love this, and is the most appropriate current platform that 
 
 > Cunningham’s vision is that you will have your own wiki, perhaps several wikis. When you see a page on someone else’s federated wiki that you want to edit, you can click "fork," and the page is copied into your own wiki where you can edit it. The owner of the original wiki can then decide whether to merge your changes into the original page.
 
-## Coming soon to a planet near you                                                                             
+## The Remix Revolution
 
-The commons is actually just a start, a perfect seed crystal to spark the remix revolution. Once distributed workgroups of all kinds have tasted this technological edge, there is no return to the flat earth topology of 20th century collaboration. 
+Distributed version control is the key tool to enable massive knowledge sharing and collaboration. It gives individuals power over their content, a reliable way to manage it, and documents authorship in a cryptographically verifiable log to give credit where credit is due.
 
+This tool must be learned by non programmers.
+
+What if not every brush stroke in the Mona Lisa were applied by Leonardo? What if every art school student could rewind the painting to where it was half done and finish it themselves? What if this new millenium saw new works of such significance with thousands of artists involved, all working in parallel, all merged together into one cultural artifact to embody lifetimes of creativity? Let's start with our creative commons and public domain text.
